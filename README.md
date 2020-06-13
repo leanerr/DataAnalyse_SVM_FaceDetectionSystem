@@ -28,6 +28,9 @@ Run in RStudio
 
 <h2>RBF SVM</h2>
 
+<h4>The Example That You Are seeing , Its Not About This Project , Its Just An Example For You To Learn More About SVM</h4>
+<h5>Our Project Is About Dectecting The Face Of Iportant People In The World</h5>
+
 ![SVM Radial Basis Function RBF](https://cdn.rawgit.com/devssh/svm/022af90c/RBF.svg)
 
 <h2>Variation with C and Gamma</h2>
